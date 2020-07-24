@@ -4,4 +4,6 @@ pink
 blue
 white
 black
+purple
+
 ###brown
