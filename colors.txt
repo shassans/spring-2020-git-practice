@@ -3,5 +3,5 @@ green
 pink
 blue
 white
-yellow
-brown
+purple
+gray
