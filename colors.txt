@@ -8,3 +8,4 @@ purple
 brown
 yellow
 lavender
+orange
