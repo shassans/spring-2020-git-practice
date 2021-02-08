@@ -7,3 +7,4 @@ black
 purple
 yellow
 brown
+gray
