@@ -5,6 +5,4 @@ blue
 white
 black
 purple
-yellow
 brown
-gray
